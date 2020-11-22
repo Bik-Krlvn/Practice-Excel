@@ -1,5 +1,11 @@
 # Basic Formula in excel
 
+## Structure of functions
+```console
+ = FUNCTION NAME (ARGUMENTS)
+
+```
+
 ## Sum
 
 ```console
@@ -52,7 +58,4 @@ a constant
   $A$1
 
 ```
-
-
-
 

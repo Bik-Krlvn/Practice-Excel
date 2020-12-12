@@ -18,6 +18,31 @@
 
 ```
 
+### Min
+> finds the minimum value
+```console
+=MIN(TargetStart : TargetEnd)
+```
+
+### Max
+> finds the maximum value
+```console
+=MAX(TargetStart : TargetEnd)
+```
+
+### Count
+> count the total numeric values in the row
+```=COUNT(TargetStart: TargetEnd)
+```
+
+### CountA
+> count the total non empty cells in the row
+```=COUNTA(TargetStart: TargetEnd)
+```
+### CountBlank
+> count the total blank cells in the row
+```=COUNTBLANK(TargetStart: TargetEnd)
+```
 
 ## NB
 Make use of the fill handles, by dragging over
